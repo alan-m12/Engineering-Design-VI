@@ -1,10 +1,10 @@
 # Alan Majarrez
 ## Engineering Design VI
-### Computer Engineering
+### Computer Engineering Major
 
-**Here is some bolded text**
+**Stevens Institute of Technology**
 
-*And here we have some italicised text*
+*here we have some italicised text*
 
 >On top of that some text in a block quote
 
@@ -20,13 +20,15 @@
   private String name;
   private double size; //in cm
   private Sting region;
-}
-   public CrowSpecies {
+}`
+
+   `public CrowSpecies {
      this.name = "Carrion";
      this.size = 48;
      this.region = "West Europe";
-     }
-   public CrowSpecies {
+     }`
+     
+   `public CrowSpecies {
      this.name = "Mariana";
      this.size = 38;
      this.region = "Guam";
