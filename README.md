@@ -2,19 +2,22 @@
 ## Engineering Design VI
 ### Computer Engineering Major
 
-**Stevens Institute of Technology**
+**Computer Science Minor**
 
-*here we have some italicised text*
+>Stevens Institute of Technology
 
->On top of that some text in a block quote
+1. Lab 1
+2. Lab 2
+3. Lab 3
 
-1. This is the first item in the list
-2. Then here's the second item
-3. Lastly the third item
+*Courses this Semester*
 
-- This
-- Is
-- Unordered
+- CS 284-E
+- EE 322-A
+- EE 345-A
+- EE 462-A
+- EE 584-WS2
+- IDE 399-A
 
 `public class CrowSpecies {
   private String name;
