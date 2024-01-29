@@ -16,8 +16,21 @@
 - Is
 - Unordered
 
-`This is where some code would go`
-
+`public class CrowSpecies {
+  private String name;
+  private double size; //in cm
+  private Sting region;
+}
+   public CrowSpecies {
+     this.name = "Carrion";
+     this.size = 48;
+     this.region = "West Europe";
+     }
+   public CrowSpecies {
+     this.name = "Mariana";
+     this.size = 38;
+     this.region = "Guam";
+     }`
 ---
 
 [Crow](https://img-9gag-fun.9cache.com/photo/a8Eg4A3_460s.jpg)
