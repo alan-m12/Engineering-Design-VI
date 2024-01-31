@@ -1,4 +1,4 @@
-# Alan Majarrez
+# Alan Manjarrez
 ## Engineering Design VI
 ### Computer Engineering Major
 
