@@ -6,7 +6,7 @@
 
 >Stevens Institute of Technology
 
-1. [Lab 1](https://i.ibb.co/vv1RWvq/Half-Adder.png)(https://i.ibb.co/4RNFmzj/Full-Adder.png)
+1. [Lab 1](https://github.com/alan-m12/Engineering-Design-VI/blob/main/Lab-1)
 2. [Lab 2]()
 3. Lab 3
 
