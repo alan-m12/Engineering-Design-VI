@@ -6,7 +6,7 @@
 
 >Stevens Institute of Technology
 
-1. [Lab 1](https://i.ibb.co/vv1RWvq/Half-Adder.png)(https://i.ibb.co/4RNFmzj/Full-Adder.png)
+1.  [Lab 1](https://i.ibb.co/vv1RWvq/Half-Adder.png)
 2. [Lab 2]()
 3. Lab 3
 
