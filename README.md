@@ -7,7 +7,7 @@
 >Stevens Institute of Technology
 
 1. [Lab 1](https://github.com/alan-m12/Engineering-Design-VI/blob/main/Lab-1.md)
-2. [Lab 2]()
+2. [Lab 2](https://github.com/alan-m12/Engineering-Design-VI/blob/main/Lab-2.md)
 3. Lab 3
 
 *Courses this Semester*
