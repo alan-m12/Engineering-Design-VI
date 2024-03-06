@@ -8,7 +8,10 @@
 
 1. [Lab 1](https://github.com/alan-m12/Engineering-Design-VI/blob/main/Lab-1.md)
 2. [Lab 2](https://github.com/alan-m12/Engineering-Design-VI/blob/main/Lab-2.md)
-3. Lab 3
+3. [Lab 3](https://github.com/alan-m12/Engineering-Design-VI/blob/main/Lab-3.md)
+4. Lab 4
+5. Lab 5
+6. Lab 6
 
 *Courses this Semester*
 
